@@ -1,0 +1,40 @@
+.header {height: 100px;
+background-color: red;}
+
+.container {}
+
+.blog { float: left; 
+	width: 70%;
+	height: 150px;
+background-color: green;}
+
+.contact { float: right;
+	width: 30%;
+	height: 150px;
+background-color: blue;}
+
+.footer {height: 100px; 
+	background-color:black; }
+
+table, th, td {
+  border: 1px solid black;
+}
+
+#bbec {
+  background-color: lightgreen;
+  inline-size: 70%;
+  border-block-end-width: 10px;
+  border-block-end-style: solid;
+  border-block-end-color: pink;
+}
+
+
+
+
+
+
+
+
+
+
+
